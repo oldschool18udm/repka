@@ -1,4 +1,4 @@
-print('hello')
-a= input()
-b = input()
-print(a+b)
+print('hello')# окно приветствия
+a= input('введите первое слагаемое')
+b = input('введите второе слагаемое')
+print(a+b)# вывод результата
